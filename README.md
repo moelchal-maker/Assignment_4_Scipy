@@ -121,4 +121,4 @@ The entire workflow:
 ## AI Usage
 AI was used in the readme.md file as I had previously failed at producing a good readme file. Therfore I used AI for this one to produce a formate that I could use in the future based on what was seen here. Visual Studio code automatic AI was also used to resolve issues such as bugs and overall sections of code with the automatic suggestions. 
 
-The program concludes by indicating that the analysis is complete.
+
